@@ -1,1 +1,17 @@
-# LED_Control
+# LED_ControlS
+- 0000 Demonstrate that clock microprocessor is running at 4 MHz, pin RA6 produces 1 MHz.
+- 0001 Demonstrate that clock microprocessor is running at 8 MHz, pin RA6 produces 2 MHz.
+- 0010 Demonstrate that clock microprocessor is running at 16 MHz, pin RA6 produces 4 MHz.
+- 0011 Demonstrate T-type flip flop in toggle mode. Pin RC0 produces 1 Hz.
+- 0100 Demonstrate a sequentially-hopped system clock. Pin RC0 produces 1 Hz.
+- 0101 Implicitly demonstrate that specifications are controlled by four switches and a ‘switch/case’ construct.
+- 0110 Demonstrate that Port C0..3 implements a 4-bit pure-binary up-counter.
+- 0111 Demonstrate that Port C0..3 implements a 4-bit pure-binary down-counter.
+- 1000 Demonstrate an output look-up table via a 4-bit Gray-code up-counter.
+- 1001 Demonstrate multiple output variables: 3-bit pure-binary up-counter and simultaneous 3-bit Gray-code up-counter.
+- 1010 Demonstrate bitwise AND operation.
+- 1011 Demonstrate bitwise OR operation.
+- 1100 Demonstrate bitwise NOT operation.
+- 1101 Demonstrate bitwise Exclusive-OR operation.
+- 1110 Demonstrate set-reset flip-flop synthesis.
+- 1111 Demonstrate input look-up table.
