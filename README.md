@@ -1,4 +1,4 @@
-# LED_ControlS
+# LED_Control
 - 0000 Demonstrate that clock microprocessor is running at 4 MHz, pin RA6 produces 1 MHz.
 - 0001 Demonstrate that clock microprocessor is running at 8 MHz, pin RA6 produces 2 MHz.
 - 0010 Demonstrate that clock microprocessor is running at 16 MHz, pin RA6 produces 4 MHz.
